@@ -15,7 +15,13 @@ sites:
     url: https://technikermathe.de/kurse/technikerschulen-verzeichnis-deutschlandweit
   - name: School Directory - Baden
     url: https://technikermathe.de/lektionen/technikerschulen-in-baden-wuerttemberg
-    maxResponseTime: 5000
+    maxResponseTime: 60000
+  - name: School Directory - Bavaria
+    url: https://technikermathe.de/lektionen/technikerschulen-in-bayern
+    maxResponseTime: 60000
+  - name: School Directory - Berlin
+    url: https://technikermathe.de/lektionen/technikerschulen-in-berlin
+    maxResponseTime: 60000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -23,14 +29,14 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://technikermathe.de/wp-content/uploads/2021/01/Logo-Text-3.png
-  name: Technikermathe - Upptime
-  introTitle: "Technikermathe.de Status Page, powered by Upptime."
-  introMessage: This status page uses **real-time** data from our [GitHub repository](https://github.com/Technikermathe/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Technikermathe
+  introTitle: "Technikermathe.de Status Page"
+  introMessage: This status page uses **real-time** data from our [GitHub repository](https://github.com/Technikermathe/upptime).
   navbar:
     - title: Website
       href: https://technikermathe.de
     - title: Status
-      href: /
+      href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
