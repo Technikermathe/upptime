@@ -4,19 +4,19 @@
     "url": "https://technikermathe.de",
     "icon": "https://icons.duckduckgo.com/ip3/technikermathe.de.ico",
     "slug": "homepage",
-    "status": "down",
-    "uptime": "98.76%",
-    "uptimeDay": "98.76%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "98.76%",
-    "uptimeYear": "98.76%",
-    "time": 5112,
-    "timeDay": 5112,
-    "timeWeek": 5112,
-    "timeMonth": 5112,
-    "timeYear": 5112,
+    "status": "up",
+    "uptime": "59.50%",
+    "uptimeDay": "59.50%",
+    "uptimeWeek": "59.50%",
+    "uptimeMonth": "59.50%",
+    "uptimeYear": "59.50%",
+    "time": 5382,
+    "timeDay": 5382,
+    "timeWeek": 5382,
+    "timeMonth": 5382,
+    "timeYear": 5382,
     "dailyMinutesDown": {
-      "2023-02-24": 3
+      "2023-02-24": 194
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.technikermathe.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.technikermathe.de.ico",
     "slug": "homepage-www",
-    "status": "down",
-    "uptime": "94.32%",
-    "uptimeDay": "94.32%",
-    "uptimeWeek": "94.32%",
-    "uptimeMonth": "94.32%",
-    "uptimeYear": "94.32%",
-    "time": 4669,
-    "timeDay": 4669,
-    "timeWeek": 4669,
-    "timeMonth": 4669,
-    "timeYear": 4669,
+    "status": "up",
+    "uptime": "56.91%",
+    "uptimeDay": "56.91%",
+    "uptimeWeek": "56.91%",
+    "uptimeMonth": "56.91%",
+    "uptimeYear": "56.91%",
+    "time": 4536,
+    "timeDay": 4536,
+    "timeWeek": 4536,
+    "timeMonth": 4536,
+    "timeYear": 4536,
     "dailyMinutesDown": {
-      "2023-02-24": 16
+      "2023-02-24": 206
     }
   },
   {
@@ -110,7 +110,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-24": 277
+      "2023-02-24": 468
     }
   },
   {
@@ -119,18 +119,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/technikermathe.de.ico",
     "slug": "school-directory-bavaria",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.41%",
+    "uptimeDay": "0.41%",
+    "uptimeWeek": "0.41%",
+    "uptimeMonth": "0.41%",
+    "uptimeYear": "0.41%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-24": 286
+      "2023-02-24": 476
     }
   },
   {
