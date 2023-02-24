@@ -4,18 +4,20 @@
     "url": "https://technikermathe.de",
     "icon": "https://icons.duckduckgo.com/ip3/technikermathe.de.ico",
     "slug": "homepage",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3838,
-    "timeDay": 3838,
-    "timeWeek": 3838,
-    "timeMonth": 3838,
-    "timeYear": 3838,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "98.76%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "98.76%",
+    "uptimeYear": "98.76%",
+    "time": 5112,
+    "timeDay": 5112,
+    "timeWeek": 5112,
+    "timeMonth": 5112,
+    "timeYear": 5112,
+    "dailyMinutesDown": {
+      "2023-02-24": 3
+    }
   },
   {
     "name": "Homepage - www",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.technikermathe.de.ico",
     "slug": "homepage-www",
     "status": "down",
-    "uptime": "96.56%",
-    "uptimeDay": "96.56%",
-    "uptimeWeek": "96.56%",
-    "uptimeMonth": "96.56%",
-    "uptimeYear": "96.56%",
+    "uptime": "94.32%",
+    "uptimeDay": "94.32%",
+    "uptimeWeek": "94.32%",
+    "uptimeMonth": "94.32%",
+    "uptimeYear": "94.32%",
     "time": 4669,
     "timeDay": 4669,
     "timeWeek": 4669,
     "timeMonth": 4669,
     "timeYear": 4669,
     "dailyMinutesDown": {
-      "2023-02-24": 9
+      "2023-02-24": 16
     }
   },
   {
@@ -108,7 +110,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-24": 271
+      "2023-02-24": 277
     }
   },
   {
@@ -128,7 +130,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-24": 279
+      "2023-02-24": 286
     }
   },
   {
