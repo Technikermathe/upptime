@@ -22,23 +22,29 @@ sites:
   - name: School Directory - Berlin
     url: https://technikermathe.de/lektionen/technikerschulen-in-berlin
     maxResponseTime: 60000
+  - name: Kafka - Broker
+    check: "tcp-ping"
+    url: $KAFKA
+  - name: WordPress
+    check: "tcp-ping"
+    url: $WORDPRESS
+  - name: DBS
+    check: "tcp-ping"
+    url: $DBS
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /upptime
+  cname: status.technikermathe.de
+  # baseUrl: /upptime
   logoUrl: https://technikermathe.de/wp-content/uploads/2021/01/Logo-Text-3.png
   name: Technikermathe
-  introTitle: "Technikermathe.de Status Page"
-  introMessage: This status page uses **real-time** data from our [GitHub repository](https://github.com/Technikermathe/upptime).
+  introTitle: "Status"
+  introMessage: This status page uses **real-time** data.
+  theme: light
   navbar:
     - title: Website
       href: https://technikermathe.de
-    - title: Status
-      href: /upptime
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
