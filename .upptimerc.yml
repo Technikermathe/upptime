@@ -22,15 +22,6 @@ sites:
   - name: School Directory - Berlin
     url: https://technikermathe.de/lektionen/technikerschulen-in-berlin
     maxResponseTime: 60000
-  - name: Kafka - Broker
-    check: "tcp-ping"
-    url: $KAFKA
-  - name: WordPress
-    check: "tcp-ping"
-    url: $WORDPRESS
-  - name: DBS
-    check: "tcp-ping"
-    url: $DBS
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
