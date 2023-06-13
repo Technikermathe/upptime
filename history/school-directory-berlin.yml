@@ -1,7 +1,7 @@
 url: https://technikermathe.de/lektionen/technikerschulen-in-berlin
-status: up
-code: 200
-responseTime: 649
-lastUpdated: 2023-06-12T23:10:29.670Z
+status: down
+code: 500
+responseTime: 551
+lastUpdated: 2023-06-13T17:48:54.706Z
 startTime: Fri Feb 24 2023 14:37:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
