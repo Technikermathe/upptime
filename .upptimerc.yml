@@ -16,9 +16,6 @@ sites:
   - name: School Directory - Baden
     url: https://technikermathe.de/lektionen/technikerschulen-in-baden-wuerttemberg
     maxResponseTime: 60000
-  - name: School Directory - Bavaria
-    url: https://technikermathe.de/lektionen/technikerschulen-in-bayern
-    maxResponseTime: 60000
   - name: School Directory - Berlin
     url: https://technikermathe.de/lektionen/technikerschulen-in-berlin
     maxResponseTime: 60000
