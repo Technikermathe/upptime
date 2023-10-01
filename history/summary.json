@@ -178,12 +178,12 @@
     "url": "https://technikermathe.de/lektionen/technikerschulen-in-baden-wuerttemberg",
     "icon": "https://icons.duckduckgo.com/ip3/technikermathe.de.ico",
     "slug": "school-directory-baden",
-    "status": "up",
-    "uptime": "98.52%",
-    "uptimeDay": "21.11%",
-    "uptimeWeek": "53.55%",
-    "uptimeMonth": "89.31%",
-    "uptimeYear": "98.52%",
+    "status": "down",
+    "uptime": "98.55%",
+    "uptimeDay": "21.60%",
+    "uptimeWeek": "54.56%",
+    "uptimeMonth": "89.54%",
+    "uptimeYear": "98.55%",
     "time": 18556,
     "timeDay": 19494,
     "timeWeek": 21587,
@@ -194,7 +194,7 @@
       "2023-09-30": 1176,
       "2023-09-29": 1109,
       "2023-09-28": 1198,
-      "2023-09-27": 222
+      "2023-09-27": 120
     }
   },
   {
