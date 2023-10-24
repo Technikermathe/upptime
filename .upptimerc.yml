@@ -9,13 +9,12 @@ sites:
     url: https://www.technikermathe.de
   - name: Courses
     url: https://technikermathe.de/onlinekurse
+  - name: Membership
+    url: https://technikermathe.de/mitgliedschaft
   - name: Intro course
     url: https://technikermathe.de/kurse/info-rund-um-das-technikerstudium
   - name: School Directory - overview
     url: https://technikermathe.de/kurse/technikerschulen-verzeichnis-deutschlandweit
-  - name: School Directory - Baden
-    url: https://technikermathe.de/lektionen/technikerschulen-in-baden-wuerttemberg
-    maxResponseTime: 60000
   - name: School Directory - Berlin
     url: https://technikermathe.de/lektionen/technikerschulen-in-berlin
     maxResponseTime: 60000
