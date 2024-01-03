@@ -18,20 +18,85 @@ sites:
   - name: School Directory - Berlin
     url: https://technikermathe.de/lektionen/technikerschulen-in-berlin
     maxResponseTime: 60000
+  - name: Auth
+    url: https://login.technikermathe.de
+  - name: Backend
+    url: https://backend.technikermathe.de
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.technikermathe.de
   # baseUrl: /upptime
-  logoUrl: https://technikermathe.de/wp-content/uploads/2021/01/Logo-Text-3.png
+  logoUrl: https://technikermathe.de/wp-content/uploads/2023/10/Logo6.jpg
   name: Technikermathe
   introTitle: "Status"
-  introMessage: This status page uses **real-time** data.
   theme: light
+  css: ".logo div { display: none !important; }"
   navbar:
     - title: Website
       href: https://technikermathe.de
 
+i18n:
+  activeIncidents: Aktuelle Störungen
+  allSystemsOperational: Alle Systeme erreichbar
+  incidentReport: "Störungsmeldung #$NUMBER →"
+  activeIncidentSummary: Opened at $DATE with $POSTS posts
+  incidentTitle: Störung $NUMBER
+  incidentDetails: Mehr Informationen
+  incidentFixed: Behoben
+  incidentOngoing: Wird bearbeitet
+  incidentOpenedAt: Aufgetreten am
+  incidentClosedAt: Behoben am
+  incidentViewOnGitHub: View and Subscribe on GitHub
+  incidentCommentSummary: Posted at $DATE by $AUTHOR
+  incidentBack: ← Alle Störungen
+  pastIncidents: Ältere Störungen
+  pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
+  liveStatus: Echtzeit-Status
+  overallUptime: "Gesamterreichbarkeit: $UPTIME"
+  overallUptimeTitle: Gesamterreichbarkeit
+  averageResponseTime: "Average response time: $TIMEms"
+  averageResponseTimeTitle: Average response
+  sevelDayResponseTime: 7-day response time
+  responseTimeMs: Response time (ms)
+  up: Up
+  down: Down
+  degraded: Degraded
+  ms: ms
+  loading: Loading
+  navGitHub: GitHub
+  footer: Copyright 2024 Morthorst Education UG. Alle Rechte vorbehalten
+  rateLimitExceededTitle: Rate limit exceeded
+  rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
+  rateLimitExceededWhatDoesErrorMean: What does this error mean?
+  rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
+  rateLimitExceededErrorHowCanFix: How can I fix it?
+  rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
+  rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
+  rateLimitExceededHasSet: You have a personal access token set.
+  rateLimitExceededRemoveToken: Remove token
+  rateLimitExceededGitHubPAT: GitHub Personal Access Token
+  rateLimitExceededCopyPastePAT: Copy and paste your token
+  rateLimitExceededSaveToken: Save token
+  errorTitle: An error occurred
+  errorIntro: An error occurred in trying to get the latest status details.
+  errorText: You can try again in a few moments.
+  errorHome: Go to the homepage
+  pastScheduledMaintenance: Past Scheduled Maintenance
+  scheduledMaintenance: Scheduled Maintenance
+  scheduledMaintenanceSummaryStarted: Started at $DATE for $DURATION minutes
+  scheduledMaintenanceSummaryStarts: Starts at $DATE for $DURATION minutes
+  startedAt: Started at
+  startsAt: Starts at
+  duration: Duration
+  durationMin: $DURATION minutes
+  incidentCompleted: Completed
+  incidentScheduled: Scheduled
+  duration24H: 24h
+  duration7D: 7d
+  duration30D: 30d
+  duration1Y: 1y
+  durationAll: all
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
