@@ -242,5 +242,41 @@
       "2023-03-03": 14,
       "2023-03-02": 10
     }
+  },
+  {
+    "name": "Auth",
+    "url": "https://login.technikermathe.de",
+    "icon": "https://icons.duckduckgo.com/ip3/login.technikermathe.de.ico",
+    "slug": "auth",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 379,
+    "timeDay": 379,
+    "timeWeek": 379,
+    "timeMonth": 379,
+    "timeYear": 379,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Backend",
+    "url": "https://backend.technikermathe.de",
+    "icon": "https://icons.duckduckgo.com/ip3/backend.technikermathe.de.ico",
+    "slug": "backend",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1068,
+    "timeDay": 1068,
+    "timeWeek": 1068,
+    "timeMonth": 1068,
+    "timeYear": 1068,
+    "dailyMinutesDown": {}
   }
 ]
