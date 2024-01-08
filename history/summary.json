@@ -237,19 +237,19 @@
     "url": "https://login.technikermathe.de",
     "icon": "https://icons.duckduckgo.com/ip3/login.technikermathe.de.ico",
     "slug": "auth",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 342,
-    "timeDay": 234,
-    "timeWeek": 342,
-    "timeMonth": 342,
-    "timeYear": 342,
+    "status": "up",
+    "uptime": "99.59%",
+    "uptimeDay": "97.97%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
+    "time": 365,
+    "timeDay": 330,
+    "timeWeek": 365,
+    "timeMonth": 365,
+    "timeYear": 365,
     "dailyMinutesDown": {
-      "2024-01-08": 0
+      "2024-01-08": 29
     }
   },
   {
@@ -257,19 +257,19 @@
     "url": "https://backend.technikermathe.de",
     "icon": "https://icons.duckduckgo.com/ip3/backend.technikermathe.de.ico",
     "slug": "backend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 912,
-    "timeDay": 848,
-    "timeWeek": 912,
-    "timeMonth": 912,
-    "timeYear": 912,
+    "status": "up",
+    "uptime": "99.59%",
+    "uptimeDay": "97.97%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
+    "time": 959,
+    "timeDay": 994,
+    "timeWeek": 959,
+    "timeMonth": 959,
+    "timeYear": 959,
     "dailyMinutesDown": {
-      "2024-01-08": 0
+      "2024-01-08": 29
     }
   }
 ]
