@@ -18,10 +18,8 @@ sites:
   - name: School Directory - Berlin
     url: https://technikermathe.de/lektionen/technikerschulen-in-berlin
     maxResponseTime: 60000
-  - name: Auth
-    url: https://login.technikermathe.de
-  - name: Backend
-    url: https://backend.technikermathe.de
+  - name: Landingpage
+    url: https://technikermathe.de/me1-biegebeanspruchung-biegung
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
